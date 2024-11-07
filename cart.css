@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.products,
+.cart {
+  margin: 20px;
+}
+
+.product,
+.cart-item {
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+#cart-items {
+  list-style: none;
+  padding-left: 0;
+}
+
+#total {
+  margin-top: 20px;
+}
